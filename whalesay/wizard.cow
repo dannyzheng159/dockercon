@@ -1,0 +1,30 @@
+##
+## A wizard
+## from http://sumaleth.com/files/row_ascii_collection_1.2.html
+
+$the_cow = <<EOC;
+    $thoughts
+     $thoughts
+      $thoughts
+EOC
+$the_cow .= <<'EOC';
+                              .
+
+                               .
+                     /^\     .
+                /\   "V"
+               /__\   I      O  o
+              //..\\  I     .
+              \].`[/  I
+              /l\/j\  (]    .  O
+             /. ~~ ,\/I          .
+             \\L__j^\/I       o
+              \/--v}  I     o   .
+              |    |  I   _________
+              |    |  I c(`       ')o
+              |    l  I   \.     ,/      
+            _/j  L l\_!  _//^---^\\_
+         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+EOC
+
+         
